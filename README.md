@@ -13,5 +13,5 @@
 </a>
 </p>
 
-For more information, visit my [Linkedin](https://www.linkedin.com/in/ahmad-farid-zainudin-aa5272256/).
+For more information, visit my [Linkedin](https://www.linkedin.com/in/ahmad-farid-zainudin-aa5272256/)..
 
