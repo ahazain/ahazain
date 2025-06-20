@@ -2,7 +2,7 @@
 
 🏫 **Information Technology Student at Jember University**.<br>
 🧑‍💻 **software engineer Enthusiast**.<br>
-📈 **Still exploring backend using express, nestJs, laravel, golang and .Net**.<br>
+📈 **Still exploring backend using express, nestJs, laravel, golang, and .Net**.<br>
 📈 **Still exploring frontend using react dan flutter**.<br>
 
 ### Github Statistic
